@@ -1,0 +1,10 @@
+.DS_Store
+.ipynb_checkpoints/
+.virtual_documents/
+__pycache__/
+.env
+venv/
+.venv/
+
+# Generated datasets
+data/processed/*.csv
